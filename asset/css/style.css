@@ -1,0 +1,182 @@
+@CHARSET "ISO-8859-1";
+
+#butonsubmit {
+	margin-top: 10px;
+}
+
+.tabletextarea {
+	width: 100%;
+	display: none;
+}
+
+.showhide-container {
+	display: none
+}
+
+.error {
+	color: red;
+}
+
+.buttondiv-widht {
+	width: 70px;
+}
+
+.tbl-color-even {
+	background-color: #f9f9f9 !important;
+}
+
+.tbl-color-odd {
+	background-color: #ffffff !important;
+}
+/* .free-from-drug{
+	background-color: #E9EBFF !important;
+} */
+.table-bg {
+	background-color: #f9f9f9 !important;
+	border: 1px solid #efefef;
+	padding-top: 20px;
+}
+
+.banner {
+	width: 221px;
+}
+
+.banner2 {
+	max-height: 69px;
+	/* margin-left: 15px; */
+	padding-left: 18px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+@media only screen and (min-width: 700px) {
+	.mysidebar {
+		margin-top: 70px;
+	}
+}
+
+/* @media only screen and (min-width: 500px) {
+	.banner2 {
+		max-height: 69px;
+		margin-left: 0px;
+		padding: 3px;
+	}
+}  */
+
+/*media query for banner image*/
+/* @media only screen and (min-width: 700px) {
+	.mysidebar{
+	margin-top: 70px;
+	}
+}
+@media only screen and (min-width: 500px) {
+	
+	.banner2 {
+	max-height: 69px;
+	margin-left: 15px;
+	padding: 14px;
+}
+} */
+.btn-submit {
+	width: 134px;
+	margin-left: 16px;
+}
+
+.search-i {
+	background-color: #FBE9E9;
+}
+
+.search-fdu {
+	background-color: rgb(233, 233, 255);
+}
+
+.color-box-lue1 {
+	margin-left: 18px;
+	margin-right: 10px;
+	width: 25px;
+	height: 25px;
+	background-color: #E9EBFF;
+	float: left;
+}
+
+.color-boxes {
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+span.glyphicon.glyphicon-ok {
+	color: #5CB85C;
+	margin-right: 5px
+}
+
+span.glyphicon.glyphicon-remove {
+	color: #D9534F;
+	margin-right: 5px
+}
+
+span.glyphicon.glyphicon-refresh {
+	color: #F0AD4E;
+	margin-right: 5px
+}
+
+.color-boxes {
+	margin-left: 17px;
+}
+
+span.glyphicon.glyph-heading {
+	float: left;
+}
+
+.login-panel {
+	margin-top: 45%;
+}
+/* table.summery> td> th {
+    border: 1px solid black;
+} */
+.from-to-date {
+	display: none;
+}
+
+.pdf-footer {
+	display: none;
+}
+
+.login-err-msg {
+	margin-left: 14px;
+	margin-right: 15px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	margin-bottom: 1px;
+}
+
+div.dt-buttons {
+	margin-left: 2px;
+}
+
+div.dataTable_wrapper {
+	padding-left: 1px;
+	padding-right: 3px;
+}
+
+a.btn.btn-warning.password-change-button {
+	margin-bottom: 10px;
+}
+
+.black-icon {
+	margin-right: 6px;
+}
+
+.validation-err {
+	float: right;
+	color: rgb(217, 83, 79);
+	/* <span class="glyphicon glyphicon-thumbs-down validation-err" aria-hidden="true"></span> */
+}
+
+.hi-xlass {
+	margin-left: 16px;
+}
+
+.selected-outreach {
+	background-color: #C4F8C4 !important;
+}
